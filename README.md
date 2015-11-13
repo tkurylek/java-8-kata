@@ -13,5 +13,5 @@ suggested order.
 3. If you're stuck - don't worry. You can peek the correct answer in the `pl.kurylek.katas.java8.streams.answers`. But
 please don't abuse this possibility :)
 
-4. Why the funky class naming?
-- It's supposed to be mocking yoda.
+Why the funky class naming?
+- It's supposed to be mocking yoda. -_-
